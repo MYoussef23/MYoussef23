@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MYoussef23
 - 👀 I’m interested in automation strategies for cyber security
-- 🌱 I’m currently learning the risk management framework and contingency planning for incident response
-- 💞️ I’m looking to collaborate on automation of controls implementation and vulnerability assessments
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to ...
 - 📫 email: kassir42@gmail.com
 
 <!---
