@@ -880,7 +880,7 @@
     }
   ],
   "fallbackResourceIds": [
-    "/subscriptions/a0e781d5-00c3-4a14-9f3e-28e2432020f4/resourcegroups/rg-syd-prod-sentinel/providers/microsoft.operationalinsights/workspaces/law-syd-prod-sentinel"
+    ""
   ],
   "fromTemplateId": "sentinel-UserWorkbook",
   "$schema": "https://github.com/Microsoft/Application-Insights-Workbooks/blob/master/schema/workbook.json"
